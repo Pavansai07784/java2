@@ -14,8 +14,7 @@ public class Q1 {
 		set1.add(p2);
 		set1.add(p3);
 		
-		Iterator it = set1.iterator();  	 
-		
+		Iterator it = set1.iterator();  	 		
 		while(it.hasNext()) {
 			System.out.println(it.next());
 		}
